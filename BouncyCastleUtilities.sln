@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BouncyCastleUtilities", "BouncyCastleUtilities\BouncyCastleUtilities.csproj", "{3954CBA4-86C0-4F5A-A834-7B6DB0A3ADFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BouncyCastleUtilities.Test", "BouncyCastleUtilities.Test\BouncyCastleUtilities.Test.csproj", "{FFCE0EDE-1ECF-4CB1-9657-188C7B3B638F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BouncyCastleUtilities.Demo", "BouncyCastleUtilities.Demo\BouncyCastleUtilities.Demo.csproj", "{5C566E7B-DBAF-43FC-9826-42E16C645D85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3954CBA4-86C0-4F5A-A834-7B6DB0A3ADFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3954CBA4-86C0-4F5A-A834-7B6DB0A3ADFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3954CBA4-86C0-4F5A-A834-7B6DB0A3ADFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3954CBA4-86C0-4F5A-A834-7B6DB0A3ADFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFCE0EDE-1ECF-4CB1-9657-188C7B3B638F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFCE0EDE-1ECF-4CB1-9657-188C7B3B638F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFCE0EDE-1ECF-4CB1-9657-188C7B3B638F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFCE0EDE-1ECF-4CB1-9657-188C7B3B638F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C566E7B-DBAF-43FC-9826-42E16C645D85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C566E7B-DBAF-43FC-9826-42E16C645D85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C566E7B-DBAF-43FC-9826-42E16C645D85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C566E7B-DBAF-43FC-9826-42E16C645D85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

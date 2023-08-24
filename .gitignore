@@ -1,0 +1,10 @@
+# rider
+.idea
+# vs
+.vs
+# packages
+packages
+
+# bin obj
+*/bin/*
+*/obj/*
