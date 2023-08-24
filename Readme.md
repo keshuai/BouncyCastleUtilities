@@ -75,7 +75,4 @@ var success = verifier.Verify(bytes, signature);
 
 依赖：
 
-BouncyCastle：[https://github.com/bcgit/bc-csharp]: https://github.com/bcgit/bc-csharp
-
-
-
+BouncyCastle：[https://github.com/bcgit/bc-csharp]
